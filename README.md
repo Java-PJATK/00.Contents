@@ -139,3 +139,44 @@ Warsaw, March 3, 2024 19:58
 ## 14 List of listings 128
 
 ## Index 130
+
+
+https://github.com/Java-PJATK/00.Contents
+https://github.com/Java-PJATK/00.GeneralIntroduction
+https://github.com/Java-PJATK/00.Index
+
+https://github.com/Java-PJATK/01.AAC-HelloWorld
+https://github.com/Java-PJATK/02.AAG-Literals
+https://github.com/Java-PJATK/03.AAL-Variables
+https://github.com/Java-PJATK/04.AAI-ReadKbd
+https://github.com/Java-PJATK/05.AAJ-ReadGraph
+https://github.com/Java-PJATK/06.ABY-RelOps
+https://github.com/Java-PJATK/07.ACB-CondOp
+https://github.com/Java-PJATK/08.BAA-Bits
+https://github.com/Java-PJATK/09.AAP-BasicOps
+https://github.com/Java-PJATK/10.ABX-Ifs
+https://github.com/Java-PJATK/11.ACC-SimpleSwitch
+https://github.com/Java-PJATK/12.ACD-Switch
+https://github.com/Java-PJATK/13.ACE-SwitchArrow
+https://github.com/Java-PJATK/14.ACF-SwitchMult
+https://github.com/Java-PJATK/15.ACG-SwitchExpr
+https://github.com/Java-PJATK/15.ACG-SwitchExpr
+https://github.com/Java-PJATK/16.ACH-SwitchEnum
+https://github.com/Java-PJATK/17.AFA-While
+https://github.com/Java-PJATK/18.AFB-WhileBis
+https://github.com/Java-PJATK/18.AFB-WhileBis
+https://github.com/Java-PJATK/19.AFE-DoWhileDice
+https://github.com/Java-PJATK/19.AFE-DoWhileDice
+https://github.com/Java-PJATK/20.AFH-ForPyram
+https://github.com/Java-PJATK/20.AFH-ForPyram
+https://github.com/Java-PJATK/21.AFJ-ForWhileEuler
+https://github.com/Java-PJATK/21.AFJ-ForWhileEuler
+https://github.com/Java-PJATK/22.CYS-PassArr
+https://github.com/Java-PJATK/22.CYS-PassArr
+https://github.com/Java-PJATK/23.BHK-StatFun
+https://github.com/Java-PJATK/23.BHK-StatFun
+https://github.com/Java-PJATK/24.BHL-RecFun
+https://github.com/Java-PJATK/25.AFR-SelSort
+https://github.com/Java-PJATK/26.AFM-Overload
+https://github.com/Java-PJATK/27.AFN-Resol
+
