@@ -2,7 +2,7 @@
 
 Java - lecture notes with example programs from archive java_examples
 
-Tomasz R. Werner
+Tomasz R Werner
 
 Warsaw, March 3, 2024 19:58
 
@@ -213,4 +213,169 @@ https://github.com/Java-PJATK/25.AFR-SelSort
 https://github.com/Java-PJATK/26.AFM-Overload
 
 https://github.com/Java-PJATK/27.AFN-Resol
+
+
+## Listings
+## List of listings
+
+1 AAC-HelloWorld/Hello.java 4
+
+2 AAG-Literals/Literals.java 13
+
+3 AAL-Variables/Variables.java 14
+
+4 AAI-ReadKbd/ReadKbd.java 17
+
+5 AAJ-ReadGraph/ReadGraph.java 18
+
+
+6 ABY-RelOps/RelOps.java 23
+
+7 ACB-CondOp/Largest.java 24
+
+8 BAA-Bits/Bits.java 26
+
+9 AAP-BasicOps/BasicOps.java 28
+
+10 ABX-Ifs/LeapYear.java 31
+
+11 ACC-SimpleSwitch/SimpleSwitch.java 32
+
+12 ACD-Switch/Switch.java 33
+
+13 ACE-SwitchArrow/SwitchArrow.java 34
+
+14 ACF-SwitchMult/SwitchMult.java 35
+
+15 ACG-SwitchExpr/SwitchExpr.java 35
+
+16 ACH-SwitchEnum/SwitchEnum.java 36
+
+17 AFA-While/Prime.java 37
+
+18 AFB-WhileBis/Prime.java 38
+
+19 AFE-DoWhileDice/Dice.java 40
+
+20 AFH-ForPyram/Stars.java 42
+
+21 AFJ-ForWhileEuler/ForWhileEuler.java 42
+
+22 CYS-PassArr/PassArr.java 46
+
+23 BHK-StatFun/StatFun.java 47
+
+24 BHL-RecFun/RecFun.java 48
+
+25 AFR-SelSort/SelSort.java 49
+
+26 AFM-Overload/Overload.java 50
+
+27 AFN-Resol/Resol.java 51
+
+28 CYD-BasicArray/BasicArr.java 54
+
+29 CYB-SimpleArrays/SimpleArrays.java 56
+
+30 CYJ-Arr3D/Arr3D.java 58
+
+31 BGO-TrivPoint/TrivPoint.java 61
+
+32 BGO-TrivPoint/Main.java 62
+
+33 BGI-VerySimple/VerySimple.java 64
+
+34 BGI-VerySimple/Main.java 64
+
+35 BGP-Point/Point.java 65
+
+36 BGR-BasicClass/Person.java 67
+
+37 BGR-BasicClass/Main.java 68
+
+38 BHE-StatEx/StatExample.java 69
+
+39 AFL-FunRecur/SimpleRec.java 70
+
+40 BHG-StatOrd/Stats.java 73
+
+41 BHG-StatOrd/Main.java 74
+
+42 BHF-StatBlocks/StatBlocks.java 74
+
+43 BGX-Singlet/Connect.java 76
+
+44 BGX-Singlet/Config.java 77
+
+45 BGX-Singlet/Main.java 77
+
+46 ELR-Records/Records.java 78
+
+47 ELN-Rec/Rec.java 81
+
+48 BHH-Strings/Strings.java 83
+
+49 BHI-StrBuilder/StrBuilder.java 85
+
+50 DJV-Inherit/Point.java 88
+
+51 DJV-Inherit/Pixel.java 89
+
+52 DJV-Inherit/Main.java 89
+
+53 DJW-InherAnimal/Animal.java 91
+
+54 DJW-InherAnimal/Dog.java 91
+
+55 DJW-InherAnimal/Cat.java 92
+
+56 DJW-InherAnimal/Main.java 92
+
+57 AAR-EquToString/EquToString.java 93
+
+58 HUM-HashEquals/Person.java 95
+
+59 HUM-HashEquals/AHash.java 96
+
+60 AXW-ScanExcept/ScanExcept.java 102
+
+61 AXX-TryCatch/TryCatch.java 103
+
+62 AYC-Excpts/Excpts.java 104
+
+63 AYN-CheckedExc/MyUncheckedException.java.105
+
+64 AYN-CheckedExc/CheckedExc.java 106
+
+65 BGU-SingList/Node.java 109
+
+66 BGU-SingList/MyList.java 109
+
+67 BGU-SingList/Main.java 110
+
+68 BGW-Stack/Node.java 111
+
+69 BGW-Stack/MyStack.java 111
+
+70 BGW-Stack/Main.java 112
+
+71 BGZ-ArrStack/ArrStack.java 112
+
+72 BGZ-ArrStack/Main.java 113
+
+73 BGY-SimpQueue/MyQueue.java 114
+
+74 BGY-SimpQueue/Main.java 114
+
+75 KEP-WriteBin/WriteBin.java 117
+
+76 BHJ-BytesChars/BytesChars.java 118 
+
+77 KFE-GrepNew/GrepNew.java 120
+
+78 KFD-Grep/Grep.java 122
+
+79 KFI-File2Str/File2Str.java 123
+
+80 HUS-Tokens/Tokenizer.java 124
 
