@@ -218,16 +218,15 @@ https://github.com/Java-PJATK/27.AFN-Resol
 ## Listings
 ## List of listings
 
-1 AAC-HelloWorld/Hello.java 4
+1 [AAC-HelloWorld/Hello.java](https://github.com/Java-PJATK/01.AAC-HelloWorld) 4
 
-2 AAG-Literals/Literals.java 13
+2 [AAG-Literals/Literals.java](https://github.com/Java-PJATK/02.AAG-Literals) 13
 
-3 AAL-Variables/Variables.java 14
+3 [AAL-Variables/Variables.java](https://github.com/Java-PJATK/03.AAL-Variables) 14
 
-4 AAI-ReadKbd/ReadKbd.java 17
+4 [AAI-ReadKbd/ReadKbd.java](https://github.com/Java-PJATK/04.AAI-ReadKbd) 17
 
 5 AAJ-ReadGraph/ReadGraph.java 18
-
 
 6 ABY-RelOps/RelOps.java 23
 
