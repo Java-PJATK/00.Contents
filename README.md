@@ -378,3 +378,18 @@ https://github.com/Java-PJATK/27.AFN-Resol
 
 80 HUS-Tokens/Tokenizer.java 124
 
+## Tasks
+
+[Task 1 Histogram](https://github.com/Java-PJATK/Task1.Histogram)
+
+[Task 2 Number Arranger](https://github.com/Java-PJATK/Task2.NumberArranger)
+
+[Task 3 Cross Pattern](https://github.com/Java-PJATK/Task3.CrossPattern)
+
+[Task 4 Random Cards](https://github.com/Java-PJATK/Task4.RandomCards)
+
+[Task 5 Date Simple Conversion](https://github.com/Java-PJATK/Task5.DateSimple)
+
+[Task 6 Tournament Scores](https://github.com/Java-PJATK/Task6.Tournament.2DArrayOfStrings)
+
+[Task 7 Library](https://github.com/Java-PJATK/Task7.Library)
