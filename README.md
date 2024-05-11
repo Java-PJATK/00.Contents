@@ -34,9 +34,9 @@ Warsaw, March 3, 2024 19:58
 
 3.5 [The stack and the heap](https://github.com/Java-PJATK/3.5TheStackandTheHeap) 16
 
-## 4 Quick introduction to I/O 17
+## 4 [Quick introduction to I/O](https://github.com/Java-PJATK/04.AAI-ReadKbd) 17
 
-## 5 Instructions and operators 19
+## 5 [Instructions and operators](https://github.com/Java-PJATK/06.ABY-RelOps) 19
 
 ### 5.1 Operators 19
 
