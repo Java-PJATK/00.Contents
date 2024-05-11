@@ -14,21 +14,21 @@ Warsaw, March 3, 2024 19:58
 
 ## 2 Compiling and running a Java program 4
 
-## 3 Types, variables, literals 6
+## 3 [Types, variables, literals](https://github.com/Java-PJATK/02.AAG-Literals) 6
 
-### 3.1 Primitive types 6
+### 3.1 [Primitive types](https://github.com/Java-PJATK/02.AAG-Literals) 6
 
-3.1.1 Names 6
+3.1.1 [Names](https://github.com/Java-PJATK/02.AAG-Literals) 6
 
-3.1.2 Overview of primitive types 7
+3.1.2 [Overview of primitive types](https://github.com/Java-PJATK/02.AAG-Literals) 7
 
-3.1.3 Integral types 8
+3.1.3 [Integral types](https://github.com/Java-PJATK/02.AAG-Literals) 8
 
-3.1.4 Floating point types 10
+3.1.4 [Floating point types](https://github.com/Java-PJATK/02.AAG-Literals) 10
 
-### 3.2 Object types 11
+### 3.2 [Object types](https://github.com/Java-PJATK/02.AAG-Literals) 11
 
-3.3 Variables and literals 11
+3.3 [Variables and literals](https://github.com/Java-PJATK/02.AAG-Literals) 11
 
 3.4 Conversions 15
 
