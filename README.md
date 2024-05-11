@@ -46,7 +46,7 @@ Warsaw, March 3, 2024 19:58
 
 5.1.3 Conditional and relational operators 22
 
-5.1.4 Bit-wise operators 25
+5.1.4 [Bit-wise operators](https://github.com/Java-PJATK/08.BAA-Bits) 25
 
 5.1.5 Casting operator 27
 
