@@ -124,17 +124,17 @@ Warsaw, March 3, 2024 19:58
 
 13.1 Binary and text IO streams 116
 
-13.2 StreamTokenizer class 124
+13.2 [StreamTokenizer class](https://github.com/Java-PJATK/80.HUS-Tokens) 124
 
-13.3 IO cheat sheet 125
+13.3 [IO cheat sheet](https://github.com/Java-PJATK/80.HUS-Tokens) 125
 
-13.3.1 Reading/writing binary files byte-by-byte 125
+13.3.1 [Reading/writing binary files byte-by-byte](https://github.com/Java-PJATK/80.HUS-Tokens) 125
 
-13.3.2 Reading a binary file into an array of bytes 126
+13.3.2 [Reading a binary file into an array of bytes](https://github.com/Java-PJATK/80.HUS-Tokens) 126
 
-13.3.3 Reading/writing text files line-by-line 126
+13.3.3 [Reading/writing text files line-by-line](https://github.com/Java-PJATK/80.HUS-Tokens) 126
 
-13.3.4 Reading/writing text files character-by-character 127
+13.3.4 [Reading/writing text files character-by-character](https://github.com/Java-PJATK/80.HUS-Tokens) 127
 
 ## 14 List of listings 128
 
