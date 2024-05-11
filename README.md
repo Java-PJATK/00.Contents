@@ -30,9 +30,9 @@ Warsaw, March 3, 2024 19:58
 
 3.3 [Variables and literals](https://github.com/Java-PJATK/02.AAG-Literals) 11
 
-3.4 Conversions 15
+3.4 [Conversions](https://github.com/Java-PJATK/3.4.Conversions) 15
 
-3.5 The stack and the heap 16
+3.5 [The stack and the heap](https://github.com/Java-PJATK/3.5TheStackandTheHeap) 16
 
 ## 4 Quick introduction to I/O 17
 
