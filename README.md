@@ -324,3 +324,5 @@ https://github.com/Java-PJATK/00.Index
 [Task 6 Tournament Scores](https://github.com/Java-PJATK/Task6.Tournament.2DArrayOfStrings)
 
 [Task 7 Library](https://github.com/Java-PJATK/Task7.Library)
+
+[Task 8 String Normalizing Static Functions](https://github.com/Java-PJATK/Task8.StringNormalizingStaticFunctions)
