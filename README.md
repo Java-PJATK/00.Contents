@@ -76,15 +76,15 @@ Warsaw, March 3, 2024 19:58
 
 8.2 Classes and objects 60
 
-8.3 Access to classes and their members 63
+8.3 [Access to classes and their members](https://github.com/Java-PJATK/33.34.BGI-VerySimple) 63
 
-8.4 Constructors and methods 64
+8.4 [Constructors and methods](https://github.com/Java-PJATK/33.34.BGI-VerySimple) 64
 
-8.5 Static members 69
+8.5 [Static members](https://github.com/Java-PJATK/38.BHE-StatEx/) 69
 
-8.6 Initializing blocks 73
+8.6 [Initializing blocks](https://github.com/Java-PJATK/40.41.BHG-StatOrd) 63 73
 
-8.7 Singleton classes 76
+8.7 [Singleton classes](https://github.com/Java-PJATK/43.44.45.BGX-Singlet) 76
 
 8.8 Records 77
 
