@@ -326,3 +326,7 @@ https://github.com/Java-PJATK/00.Index
 [Task 7 Library](https://github.com/Java-PJATK/Task7.Library)
 
 [Task 8 String Normalizing Static Functions](https://github.com/Java-PJATK/Task8.StringNormalizingStaticFunctions)
+
+[Task 9 Exceptions](https://github.com/Java-PJATK/Task9.Exceptions)
+
+[Task 10 Calculating Devices](https://github.com/Java-PJATK/Task10.Computers)
